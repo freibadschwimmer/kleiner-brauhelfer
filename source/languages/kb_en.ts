@@ -227,7 +227,7 @@
     <message>
         <location filename="../ui/einstellungen.ui" line="264"/>
         <source>Schnellgärverlauf Linie Stammwürze</source>
-        <translation>Fast fermentation sample - OG Line</translation>
+        <translation>Progress of fast fermentation sample - OG Line</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="317"/>
@@ -362,7 +362,7 @@
     <message>
         <location filename="../ui/einstellungen.ui" line="1319"/>
         <source>auf Defaultwerte zurücksetzten</source>
-        <translation>Set to default values</translation>
+        <translation>Reset to default values</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="1390"/>
@@ -432,12 +432,12 @@
     <message>
         <location filename="../ui/einstellungen.ui" line="1682"/>
         <source>Grünschlauchzeitpunkt</source>
-        <translation type="unfinished">Grünschlauchzeitpunkt</translation>
+        <translation>green bottling time (Grünschlauchzeitpunkt)</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="1689"/>
         <source>Spundungsdruck</source>
-        <translation type="unfinished">Spundungsdruck</translation>
+        <translation>bung pressure</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="1720"/>
@@ -2033,12 +2033,12 @@ This action can only be undone by editing the beer file with an editor.</transla
     <message>
         <location filename="../ui/mainwindow.ui" line="6767"/>
         <source>Grünschlauchzeitpunkt</source>
-        <translation type="unfinished">Grünschlauchzeitpunkt</translation>
+        <translation>Grünschlauchzeitpunkt</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="6883"/>
         <source>Spundungsdruck</source>
-        <translation type="unfinished">Spundungsdruck</translation>
+        <translation>bung pressure</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="6964"/>
@@ -4284,12 +4284,12 @@ SQL Befehl:
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="4955"/>
         <source>Speise abfüllen</source>
-        <translation type="unfinished">Bottle unfermented wort</translation>
+        <translation type="unfinished">Bottle unfermented wort (dessert)</translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="4958"/>
         <source> Liter Speise abfüllen</source>
-        <translation type="unfinished">Litres of unfermented wort for bottling</translation>
+        <translation type="unfinished">Litres of unfermented wort (dessert) for bottling</translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="4966"/>
