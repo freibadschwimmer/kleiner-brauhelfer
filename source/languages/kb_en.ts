@@ -150,7 +150,7 @@
     <message>
         <location filename="../src/database.cpp" line="17"/>
         <source>Fehler</source>
-        <translation>Erro</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -348,12 +348,12 @@
     <message>
         <location filename="../ui/einstellungen.ui" line="1102"/>
         <source>Terrill</source>
-        <translation></translation>
+        <translation>Terrill</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="1107"/>
         <source>Terrill linear</source>
-        <translation></translation>
+        <translation>Terrill linear</translation>
     </message>
     <message>
         <location filename="../ui/einstellungen.ui" line="1135"/>
@@ -556,7 +556,7 @@
     <message>
         <location filename="../ui/dialogeinmaischetemp.ui" line="14"/>
         <source>Berechnung Einmaischetemperatur</source>
-        <translation>Calculation Dough-in Temperature</translation>
+        <translation>Calculation of Dough-in Temperature</translation>
     </message>
     <message>
         <location filename="../ui/dialogeinmaischetemp.ui" line="22"/>
@@ -566,7 +566,7 @@
     <message>
         <location filename="../ui/dialogeinmaischetemp.ui" line="73"/>
         <source>kg</source>
-        <translation></translation>
+        <translation>kg</translation>
     </message>
     <message>
         <location filename="../ui/dialogeinmaischetemp.ui" line="84"/>
@@ -578,7 +578,7 @@
         <location filename="../ui/dialogeinmaischetemp.ui" line="259"/>
         <location filename="../ui/dialogeinmaischetemp.ui" line="334"/>
         <source>°C</source>
-        <translation></translation>
+        <translation>°C</translation>
     </message>
     <message>
         <location filename="../ui/dialogeinmaischetemp.ui" line="146"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="14"/>
         <source>Berechnung Stammwürze</source>
-        <translation>Calculation Original Gravity</translation>
+        <translation>Calculation of Original Gravity</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="22"/>
@@ -632,7 +632,7 @@
         <location filename="../ui/dialogstammwuerze.ui" line="78"/>
         <location filename="../ui/dialogstammwuerze.ui" line="437"/>
         <source>°P</source>
-        <translation></translation>
+        <translation>°P</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="85"/>
@@ -642,7 +642,7 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="135"/>
         <source>°C</source>
-        <translation></translation>
+        <translation>°C</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="142"/>
@@ -652,7 +652,7 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="192"/>
         <source>g/ml</source>
-        <translation></translation>
+        <translation>g/ml</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="209"/>
@@ -662,7 +662,7 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="265"/>
         <source>Brix</source>
-        <translation></translation>
+        <translation>Brix</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="303"/>
@@ -677,7 +677,7 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="318"/>
         <source>Kleier</source>
-        <translation></translation>
+        <translation>Kleier</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="323"/>
@@ -687,12 +687,12 @@
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="328"/>
         <source>Terrill</source>
-        <translation></translation>
+        <translation>Terrill</translation>
     </message>
     <message>
         <location filename="../ui/dialogstammwuerze.ui" line="333"/>
         <source>Terrill linear</source>
-        <translation></translation>
+        <translation>Terrill linear</translation>
     </message>
 </context>
 <context>
@@ -740,7 +740,7 @@
         <location filename="../ui/ber_schuettung.ui" line="386"/>
         <location filename="../ui/ber_schuettung.ui" line="464"/>
         <source>kg</source>
-        <translation></translation>
+        <translation>kg</translation>
     </message>
     <message>
         <location filename="../ui/ber_schuettung.ui" line="94"/>
@@ -1722,7 +1722,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../ui/mainwindow.ui" line="7491"/>
         <location filename="../ui/mainwindow.ui" line="7568"/>
         <source>g</source>
-        <translation></translation>
+        <translation>g</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="3511"/>
@@ -1880,7 +1880,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../ui/mainwindow.ui" line="4340"/>
         <source>Temperatur Jungbier beim Abfüllen</source>
-        <translation></translation>
+        <translation>Green beer temperature at bottling</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="4781"/>
@@ -2756,7 +2756,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../ui/mainwindow.ui" line="744"/>
         <source>g/l</source>
-        <translation></translation>
+        <translation>g/l</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1020"/>
@@ -3093,14 +3093,14 @@ This action can only be undone by editing the beer file with an editor.</transla
         <location filename="../ui/mainwindow.ui" line="11775"/>
         <location filename="../ui/mainwindow.ui" line="11874"/>
         <source>mg/l</source>
-        <translation></translation>
+        <translation>mg/l</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="11811"/>
         <location filename="../ui/mainwindow.ui" line="11910"/>
         <location filename="../ui/mainwindow.ui" line="11971"/>
         <source>mmol/l</source>
-        <translation></translation>
+        <translation>mmol/l</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="11932"/>
@@ -4568,7 +4568,7 @@ Note: Ingredients that will be added during fermentation will not be subtracted 
         <location filename="../src/mainwindowimpl_sudinfo.cpp" line="135"/>
         <location filename="../src/mainwindowimpl_zusammenfassung.cpp" line="107"/>
         <source>g/l</source>
-        <translation></translation>
+        <translation>g/l</translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="9461"/>
@@ -4625,7 +4625,7 @@ Note: Ingredients that will be added during fermentation will not be subtracted 
         <location filename="../src/mainwindowimpl_spickzettel.cpp" line="729"/>
         <location filename="../src/mainwindowimpl_spickzettel.cpp" line="902"/>
         <source> kg</source>
-        <translation></translation>
+        <translation> kg</translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="5107"/>
@@ -5754,7 +5754,7 @@ SQL Befehl:
     <message>
         <location filename="../ui/hopfengabe.ui" line="189"/>
         <source>g</source>
-        <translation></translation>
+        <translation>g</translation>
     </message>
     <message>
         <location filename="../ui/hopfengabe.ui" line="209"/>
@@ -5832,7 +5832,7 @@ SQL Befehl:
     <message>
         <location filename="../ui/malzgabe.ui" line="181"/>
         <source>kg</source>
-        <translation></translation>
+        <translation>kg</translation>
     </message>
     <message>
         <location filename="../src/malzgabe.cpp" line="153"/>
