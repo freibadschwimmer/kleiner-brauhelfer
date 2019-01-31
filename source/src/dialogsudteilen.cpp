@@ -62,11 +62,11 @@ void DialogSudTeilen::on_spinBox_Percent2_valueChanged(int position)
 void DialogSudTeilen::on_doubleSpinBox_Amount1_valueChanged(double amount)
 {
     if (ui->doubleSpinBox_Amount1->hasFocus())
-        ui->horizontalSlider_Percent->setValue(100 - (int)((amount / mTotalAmount) * 100));
+        ui->horizontalSlider_Percent->setValue((int)((amount / mTotalAmount) * 100));
 }
 
 void DialogSudTeilen::on_doubleSpinBox_Amount2_valueChanged(double amount)
 {
     if (ui->doubleSpinBox_Amount2->hasFocus())
-        ui->horizontalSlider_Percent->setValue((int)((amount / mTotalAmount) * 100));
+        ui->horizontalSlider_Percent->setValue(100 - (int)((amount / mTotalAmount) * 100));
 }
